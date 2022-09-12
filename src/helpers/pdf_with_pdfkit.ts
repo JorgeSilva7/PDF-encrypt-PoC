@@ -21,6 +21,4 @@ export const createEncryptedPDF = (outputName: string) => {
   pdfDoc.fontSize(32);
   pdfDoc.text("PDF Test with pdfkit", 10, 10);
   pdfDoc.end();
-
-  //pdfDoc.save(`./${outputName}.pdf`);
 };

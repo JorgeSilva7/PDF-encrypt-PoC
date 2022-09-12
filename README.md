@@ -2,6 +2,9 @@
 
 This POC create a two encrypted PDF files with two PDF libraries
 
+- [pdfkit](https://www.npmjs.com/package/pdfkit)
+- [jsPDF](https://www.npmjs.com/package/jspdf)
+
 ## Installation
 
 - npm i
